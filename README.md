@@ -53,4 +53,4 @@ Customer Insights: Understand preferences to improve dining experiences and loya
 
 6. Screenshots / Demos
 
- show what the dashboard look like :- [dashboard preview](https://github.com/Vipin2197/Zomato-Restaurant-Dashboard/blob/main/Zomato%20Restaurant%20Dashboard.png)
+ show what the dashboard look like :-|[dashboard preview](https://github.com/Vipin2197/Zomato-Restaurant-Dashboard/blob/main/Zomato%20Restaurant%20Dashboard.png)
